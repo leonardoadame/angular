@@ -122,6 +122,11 @@ export enum OpKind {
    * An operation to associate an attribute with an element.
    */
   Attribute,
+
+  /*
+   * TODO
+   */
+  PropertyCreate,
 }
 
 /**
