@@ -222,6 +222,12 @@ export enum ExpressionKind {
    * An empty expression that will be stipped before generating the final output.
    */
   EmptyExpr,
+
+  /**
+   * An interpolation template string expression. Such template string expression is
+   * commonly expected to be part of the `PropertyCreate` operation expression.
+   */
+  InterpolationTemplateExpr,
 }
 
 /**
