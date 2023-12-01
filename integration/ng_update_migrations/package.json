@@ -24,15 +24,15 @@
     "zone.js": "file:../../dist/zone.js-dist/archive/zone.js.tgz"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
-    "@angular/cli": "file:../../node_modules/@angular/cli",
+    "@angular-devkit/build-angular": "16.0.0",
+    "@angular/cli": "17.0.0",
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@angular/language-service": "file:../../dist/packages-dist/language-service",
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
     "@types/node": "file:../../node_modules/@types/node",
     "chalk": "2.4.2",
     "diff": "4.0.1",
-    "glob": "7.1.4",
+    "glob": "9.0.0",
     "jasmine-core": "3.4.0",
     "jasmine-spec-reporter": "4.2.1",
     "typescript": "file:../../node_modules/typescript"
