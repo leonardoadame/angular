@@ -59,7 +59,7 @@
     "@babel/parser": "7.22.5",
     "@babel/preset-env": "7.22.5",
     "@babel/template": "7.22.5",
-    "@babel/traverse": "7.22.5",
+    "@babel/traverse": "7.23.2",
     "@babel/types": "7.22.5",
     "@bazel/concatjs": "5.8.1",
     "@bazel/esbuild": "5.8.1",
