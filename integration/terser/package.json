@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "16.1.0",
     "@angular/core": "file:../../dist/packages-dist/core",
     "rxjs": "file:../../node_modules/rxjs",
     "terser": "file:../../node_modules/terser",
