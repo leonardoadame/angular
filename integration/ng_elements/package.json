@@ -15,7 +15,7 @@
     "zone.js": "file:../../dist/zone.js-dist/archive/zone.js.tgz"
   },
   "devDependencies": {
-    "@babel/core": "file:../../node_modules/@babel/core",
+    "@babel/core": "7.23.2",
     "@rollup/plugin-babel": "file:../../node_modules/@rollup/plugin-babel",
     "@rollup/plugin-node-resolve": "file:../../node_modules/@rollup/plugin-node-resolve",
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
