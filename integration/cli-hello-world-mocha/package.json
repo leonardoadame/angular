@@ -32,7 +32,7 @@
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
     "@types/jasminewd2": "file:../../node_modules/@types/jasminewd2",
     "@types/node": "file:../../node_modules/@types/node",
-    "chai": "^4.3.6",
+    "chai": "^4.3.10",
     "codelyzer": "5.2.0",
     "jasmine-core": "3.5.0",
     "jasmine-spec-reporter": "4.2.1",
