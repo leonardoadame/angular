@@ -25,8 +25,8 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
-    "@angular/cli": "file:../../node_modules/@angular/cli",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/cli": "16.1.2",
+    "@angular/compiler-cli": "18.2.8",
     "@types/node": "^12.11.1",
     "typescript": "file:../../node_modules/typescript"
   }
