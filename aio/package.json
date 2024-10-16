@@ -87,7 +87,7 @@
     "@angular-eslint/template-parser": "^16.0.3",
     "@angular/build-tooling": "https://github.com/angular/dev-infra-private-build-tooling-builds.git#7b39da844cd89dfa5fe0d36905fef3cb88843bc7",
     "@angular/cli": "17.1.0-rc.1",
-    "@angular/compiler-cli": "17.1.0-rc.0",
+    "@angular/compiler-cli": "18.2.8",
     "@bazel/bazelisk": "^1.7.5",
     "@bazel/buildozer": "^6.0.0",
     "@bazel/ibazel": "^0.16.2",
