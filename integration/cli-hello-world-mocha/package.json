@@ -25,7 +25,7 @@
     "zone.js": "file:../../dist/zone.js-dist/archive/zone.js.tgz"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "file:../../node_modules/@angular-devkit/build-angular",
+    "@angular-devkit/build-angular": "19.0.0",
     "@angular/cli": "file:../../node_modules/@angular/cli",
     "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
     "@angular/language-service": "file:../../dist/packages-dist/language-service",
@@ -43,7 +43,7 @@
     "karma-jasmine-html-reporter": "1.4.2",
     "karma-mocha": "^2.0.1",
     "karma-mocha-reporter": "^2.2.5",
-    "mocha": "^9.2.0",
+    "mocha": "^10.3.0",
     "protractor": "file:../../node_modules/protractor",
     "ts-node": "8.3.0",
     "tslint": "5.18.0",
