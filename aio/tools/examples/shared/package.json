@@ -31,7 +31,7 @@
     "@angular/platform-server": "17.0.9",
     "@angular/router": "17.0.9",
     "@angular/service-worker": "17.0.9",
-    "@angular/ssr": "17.0.10",
+    "@angular/ssr": "19.0.0",
     "@angular/upgrade": "17.0.9",
     "angular": "^1.8.3",
     "angular-in-memory-web-api": "~0.16.0",
