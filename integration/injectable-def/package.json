@@ -6,7 +6,7 @@
     "@angular/animations": "file:../../dist/packages-dist/animations",
     "@angular/common": "file:../../dist/packages-dist/common",
     "@angular/compiler": "file:../../dist/packages-dist/compiler",
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "16.1.0",
     "@angular/core": "file:../../dist/packages-dist/core",
     "@angular/platform-browser": "file:../../dist/packages-dist/platform-browser",
     "@angular/platform-browser-dynamic": "file:../../dist/packages-dist/platform-browser-dynamic",
@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/jasmine": "file:../../node_modules/@types/jasmine",
     "concurrently": "3.4.0",
-    "lite-server": "2.2.2",
+    "lite-server": "2.6.0",
     "protractor": "file:../../node_modules/protractor",
     "rollup": "file:../../node_modules/rollup"
   },
