@@ -47,7 +47,7 @@
   },
   "// 1": "dependencies are used locally and by bazel",
   "dependencies": {
-    "@angular-devkit/build-angular": "17.1.0-rc.1",
+    "@angular-devkit/build-angular": "17.3.16",
     "@angular-devkit/core": "17.1.0-rc.1",
     "@angular-devkit/schematics": "17.1.0-rc.1",
     "@angular/cdk": "17.1.0-rc.0",
@@ -209,7 +209,7 @@
     "sauce-connect": "https://saucelabs.com/downloads/sc-4.9.1-linux.tar.gz",
     "semver": "^7.3.5",
     "ts-node": "^10.9.1",
-    "tsec": "0.2.8",
+    "tsec": "0.2.9",
     "tslint-eslint-rules": "5.4.0",
     "tslint-no-toplevel-property-access": "0.0.2",
     "typed-graphqlify": "^3.1.1",
