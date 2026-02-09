@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@angular/compiler-cli": "file:../../dist/packages-dist/compiler-cli",
+    "@angular/compiler-cli": "16.1.0",
     "@babel/core": "file:../../node_modules/@babel/core",
     "@rollup/plugin-babel": "file:../../node_modules/@rollup/plugin-babel",
     "@rollup/plugin-node-resolve": "file:../../node_modules/@rollup/plugin-node-resolve",
